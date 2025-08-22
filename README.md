@@ -174,7 +174,7 @@ SELECT
 FROM hourly_sale
 GROUP BY shift;
 
-📊 Findings
+ ## 📊 Findings
 
 Customer Demographics: Wide age range with purchases across categories like Clothing and Beauty.
 
@@ -184,7 +184,7 @@ Sales Trends: Monthly analysis highlights peak sales seasons.
 
 Customer Insights: Identified top-spending customers and most popular categories.
 
-📑 Reports
+## 📑 Reports
 
 Sales Summary: Total sales, demographics, and category performance.
 
@@ -192,7 +192,7 @@ Trend Analysis: Seasonal & monthly trends across shifts.
 
 Customer Insights: Top customers & unique buyers by category.
 
-✅ Conclusion
+## ✅ Conclusion
 
 This project is a comprehensive SQL case study covering:
 
